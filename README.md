@@ -61,11 +61,6 @@ Evaluate video understanding capabilities on MVBench dataset:
 ```python
 # Run MVBench evaluation
 python evaluation/eval_mvbench_1.py
-
-# Key parameters:
-# - num_frame: 16 (number of frames to sample)
-# - resolution: 224 (image resolution)
-# - data_dir: "/path/to/MVBench/json"
 ```
 
 **Evaluation Process:**
